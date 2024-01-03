@@ -19,7 +19,7 @@ Minhas principais habilidades incluem:
 - Frameworks: Spring, Django, React
 - Banco de Dados: MySQL, MongoDB, PostgreSQL
 
-![Snake animation](https://github.com/AlixNog/AlixNog/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/AlixNog/AlixNog/blob/output/github-contribution-grid-snake.svg)
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlixNog&layout=compact&langs_count=7&theme=dracula"/>
@@ -30,9 +30,9 @@ Minhas principais habilidades incluem:
 
 Fique à vontade para entrar em contato comigo! Você pode me encontrar nas seguintes plataformas:
 
-- 📧 E-mail: [seu.email@example.com]
-- 💼 LinkedIn: [seu-linkedin]
-- 🐦 Twitter: [seu-twitter]
+- 📧 E-mail: alicebnog92@gmail.com
+
+
 
 Estou sempre aberta a colaborações interessantes. 
 
