@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**AlixNog/AlixNog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Alice and my nickname is Alix!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+
+Olá! 👋 Sou formada em Ciência da Computação  e experiência prática em desenvolvimento de software. Me formei em Ciência da Computação na Universidade Federal de Alfenas - UNIFAL -  e desde então tenho me dedicado ao mundo da tecnologia.
+
+- 🎓 Bacharel em Ciência da Computação
+- 💻 Desenvolvedora de Software
+- 🌐 Apaixonada por Tecnologia e Inovação
+
+## Habilidades
+
+Minhas principais habilidades incluem:
+
+- Linguagens de Programação: Java, Python, c, c++, php
+- Desenvolvimento Web: HTML, CSS, JavaScript
+- Frameworks: Spring, Django, React
+- Banco de Dados: MySQL, MongoDB, PostgreSQL
+
+![Snake animation](https://github.com/AlixNog/AlixNog/blob/output/github-contribution-grid-snake.svg)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlixNog&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Contato
+
+Fique à vontade para entrar em contato comigo! Você pode me encontrar nas seguintes plataformas:
+
+- 📧 E-mail: [seu.email@example.com]
+- 💼 LinkedIn: [seu-linkedin]
+- 🐦 Twitter: [seu-twitter]
+
+Estou sempre aberta a colaborações interessantes. 
+
+**Obrigada por visitar o meu perfil! 😊**
